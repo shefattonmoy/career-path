@@ -1,0 +1,33 @@
+.single-job {
+    width: 480px;
+    height: 320px;
+    border-radius: 8px;
+    margin-left: 24px;
+    background-color: #F4F4F4;
+  }
+
+  .single-job img {
+    width: 120px;
+    height: 35px;
+    margin: 24px;
+  }
+
+  .single-job-info, .single-job-name-designation {
+    margin-left: 24px;
+  }
+
+  .single-job p {
+    margin-top: 10px;
+  }
+
+  .secondary-btn {
+    border: 1px solid #9873FF;
+    border-radius: 8px;
+    background: #FFFFFF;
+    color: #9873FF;
+  }
+
+  .secondary-btn:hover {
+    color: #717171;
+    background: #717171;
+}

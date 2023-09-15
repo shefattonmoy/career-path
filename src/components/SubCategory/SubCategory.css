@@ -1,0 +1,25 @@
+.sub-category {
+  width: 200px;
+  height: 150px;
+  border-radius: 8px;
+  background-color: #F4F4F4;
+}
+
+.sub-category img {
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.sub-category-info {
+  margin-left: 14px;
+}
+
+.category-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  line-height: 27px;
+  color: #474747;
+}

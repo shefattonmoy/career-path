@@ -1,0 +1,19 @@
+h1 .style-span {
+    color: #9873FF;
+}
+
+.banner-lines p {
+    font-size: 15px;
+    color: #757575;
+}
+
+.banner-parent {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
+}
+
+.banner-parent img {
+    height: 400px;
+    width: 400px;
+}
